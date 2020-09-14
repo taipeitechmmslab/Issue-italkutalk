@@ -3,7 +3,7 @@ name: iTalkuTalk 願望實現
 about: 期望的功能可在此說明，我們將評估可行性、必要性
 title: 學號_姓名
 labels: wish
-assignees: t104360088
+assignees: ben111497, chenchewei
 
 ---
 
