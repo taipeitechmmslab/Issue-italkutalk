@@ -3,7 +3,7 @@ name: iTalkuTalk 問題回報
 about: 遇到 Bug 請在此回報，我們將盡快改善，提供大家更好的服務
 title: 學號_姓名
 labels: bug
-assignees: ben111497, chenchewei
+assignees: t109368015, chenchewei
 
 ---
 
